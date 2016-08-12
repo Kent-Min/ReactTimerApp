@@ -15,7 +15,7 @@ var Navigation = () =>{
             </IndexLink>
           </li>
           <li>
-            <Link to="/" activeClassName="active-link">
+            <Link to="/countdown" activeClassName="active-link">
               CountDown
             </Link>
 
